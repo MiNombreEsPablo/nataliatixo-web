@@ -207,7 +207,14 @@ def extract_project_body(soup: BeautifulSoup, dest_dir: Path) -> str:
         return ""
     nodes = container.find_all(
         lambda t: (t.get("data-testid") == "richTextElement" and not t.find_parent(id="SITE_HEADER") and not t.find_parent(id="SITE_FOOTER"))
-        or (t.name in ("img", "video") and not t.find_parent(attrs={"data-testid": "richTextElement"}))
+        or (
+            t.name in ("img", "video")
+            and not t.find_parent(attrs={"data-testid": "richTextElement"})
+            # Wix "Social Bar" widgets are just social-network logos; the
+            # links now live in the site footer, so skip the images.
+            # (aria-label is localized per page language.)
+            and not t.find_parent("ul", attrs={"aria-label": ["Social Bar", "Панель соцсетей"]})
+        )
     )
     return extract_media_and_text(nodes, dest_dir)
 

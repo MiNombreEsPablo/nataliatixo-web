@@ -2,15 +2,7 @@
 title: "About"
 ---
 
-<img src="6253e7_537c2b1751dd47b0a85d41cc7681c768_d_1944_2592_s_2.jpg" alt="IMG_20191113_170310.jpg">
-
-<img src="6253e7_1720f04b548d4ce48e64c408ac95d74c.jpg" alt="download_edited">
-
-<img src="0fdef751204647a3bbd7eaa2827ed4f9.png" alt="Facebook">
-
-<img src="78aa2057f0cb42fbbaffcbc36280a64a.png" alt="YouTube">
-
-<img src="01c3aff52f2a4dffa526d7a9843d46ea.png" alt="Instagram">
+<img src="6253e7_537c2b1751dd47b0a85d41cc7681c768_d_1944_2592_s_2.jpg" alt="Portrait of Natalia Tikhonova">
 
 <p>Hello!<br>
 <br></p>

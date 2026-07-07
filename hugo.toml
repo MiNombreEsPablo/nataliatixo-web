@@ -65,3 +65,19 @@ tag = 'tags'
 
 [params]
   description = 'Natalia Tikhonova — artist portfolio, curatorial projects, and writing.'
+
+# Social links shown in the footer. Uncomment (or replace) entries to fill the
+# slot; the footer renders nothing while this list is empty. These four are the
+# accounts the old Wix site linked to, kept for reference:
+# [[params.social]]
+#   name = 'Instagram'
+#   url = 'https://www.instagram.com/nataliatixo/'
+# [[params.social]]
+#   name = 'Facebook'
+#   url = 'https://www.facebook.com/natalia.tixo'
+# [[params.social]]
+#   name = 'YouTube'
+#   url = 'https://www.youtube.com/channel/UCOlV1QVZzXoaAxzDlHjPiTw'
+# [[params.social]]
+#   name = 'VK'
+#   url = 'https://vk.com/nataliatixo'

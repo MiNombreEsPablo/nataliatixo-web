@@ -87,6 +87,13 @@ a:hover { text-decoration-color: currentColor; }
 
 .content p { margin: 1rem 0; }
 
+/* About page portrait: a modest fixed-width photo, not a full-width image.
+   Scoped to the home page so re-extracted content stays styled. */
+.page-home .content img {
+  max-width: min(13rem, 100%);
+  margin: 0.5rem 0 1.75rem;
+}
+
 .video-embed {
   position: relative;
   width: 100%;
@@ -175,3 +182,17 @@ a:hover { text-decoration-color: currentColor; }
   padding: 2.5rem 1.5rem;
   border-top: 1px solid var(--border);
 }
+
+.footer-social {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5rem;
+  margin-bottom: 0.75rem;
+  font-size: 0.75rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.footer-social a { color: var(--muted); text-decoration: none; }
+.footer-social a:hover { color: var(--fg); }

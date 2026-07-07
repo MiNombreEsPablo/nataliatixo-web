@@ -1,4 +1,9 @@
 <footer class="site-footer">
+  {{ with .Site.Params.social }}
+  <nav class="footer-social" aria-label="Social links">
+    {{ range . }}<a href="{{ .url }}" target="_blank" rel="noopener">{{ .name }}</a>{{ end }}
+  </nav>
+  {{ end }}
   <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
 </footer>
 <script>
