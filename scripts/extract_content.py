@@ -219,6 +219,34 @@ def extract_project_body(soup: BeautifulSoup, dest_dir: Path) -> str:
     return extract_media_and_text(nodes, dest_dir)
 
 
+# The About page's CV section labels ("Education", "Group exhibitions", ...)
+# are plain paragraphs in the Wix source, indistinguishable from the entries
+# they introduce. Promote them to <h2> (and bare year markers to <h3>) so the
+# page reads as sections instead of a wall of text. Matched against the
+# tag-stripped text so labels containing links still qualify.
+HOME_SECTION_LABELS = {
+    "education", "selected curatorial projects", "personal exhibitions",
+    "group exhibitions", "collections", "awards", "lectures",
+    "образование", "избранные кураторские проекты", "персональные выставки",
+    "групповые выставки", "коллекции", "достижения",
+    "лекции и публичные выступления", "тексты",
+}
+
+
+def promote_home_headings(body: str) -> str:
+    def repl(m):
+        inner = m.group(1)
+        text = re.sub(r"<[^>]+>", "", inner)
+        text = re.sub(r"\s+", " ", text.replace(" ", " ")).strip()
+        if text.lower() in HOME_SECTION_LABELS:
+            return f"<h2>{inner}</h2>"
+        if re.fullmatch(r"(?:19|20)\d\d", text):
+            return f"<h3>{text}</h3>"
+        return m.group(0)
+
+    return re.sub(r"<p>(.*?)</p>", repl, body, flags=re.S)
+
+
 def extract_post_body(soup: BeautifulSoup, dest_dir: Path) -> str:
     container = soup.find(attrs={"data-hook": "post-description"})
     if not container:
@@ -455,8 +483,12 @@ def main():
         print("home")
         soup_en = load(MIRROR_HOST / "nataliatixoeng.html")
         soup_ru = load(MIRROR_HOST / "nataliatixoeng?lang=ru.html")
-        body_en = extract_project_body(soup_en, CONTENT)
-        body_ru = extract_project_body(soup_ru, CONTENT)
+        body_en = promote_home_headings(extract_project_body(soup_en, CONTENT))
+        body_ru = promote_home_headings(extract_project_body(soup_ru, CONTENT))
+        # The portrait's alt in the mirror is a camera filename; keep the
+        # hand-written descriptive alt across re-runs.
+        body_en = body_en.replace('alt="IMG_20191113_170310.jpg"', 'alt="Portrait of Natalia Tikhonova"')
+        body_ru = body_ru.replace('alt="IMG_20191113_170310.jpg"', 'alt="Портрет Натальи Тихоновой"')
         write_bundle(CONTENT, "_index.md", "About", body_en)
         write_bundle(CONTENT, "_index.ru.md", "О себе", body_ru)
 

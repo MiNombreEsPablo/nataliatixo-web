@@ -94,6 +94,24 @@ a:hover { text-decoration-color: currentColor; }
   margin: 0.5rem 0 1.75rem;
 }
 
+/* CV section headings on the About page (promoted from plain Wix paragraphs
+   by extract_content.py), matching the .group-heading style used on lists. */
+.page-home .content h2 {
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 3rem 0 0.75rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.page-home .content h3 {
+  font-size: 0.9rem;
+  color: var(--muted);
+  margin: 2rem 0 0.25rem;
+}
+
 .video-embed {
   position: relative;
   width: 100%;

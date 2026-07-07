@@ -16,7 +16,7 @@ title: "О себе"
 
 <p>Основные темы моих  художественныхпроектов—постсоветское пространство, травма, милитаризм, практики архивирования, средства массовой информации, пропаганда. Cпомощью чувственныхметодов и технических приемовя пытаюсьзафиксироватьизменяющиеся следы времени, истории, идентичности, коллективной памяти,аффективных состоянийиопределить характеризующие ихдетерменированные процеcсы.</p>
 
-<p>Образование</p>
+<h2>Образование</h2>
 
 <p>2017 – 2019  <a href="http://artesliberales.spbu.ru/?set_language=ru&amp;cl=ru">Кураторские исследования</a>, <a href="http://artesliberales.spbu.ru/?set_language=ru&amp;cl=ru">Смольный факультет свободных искусств и наук</a>, совместная программа СПБГУ и Bard College<br>
 2014               Cовместная образовательная программа "Cabinet of curiosity", KUVA (The Finnish Academy of Fine Arts)  PRO ARTE, Helsinki-Saint-Petersburg</p>
@@ -26,7 +26,7 @@ title: "О себе"
 
 <p>2003 – 2008, <a href="http://www.unn.ru">ННГУ им. Лобачевского</a>, <a href="http://www.rf.unn.ru">радиофизический факультет</a><br></p>
 
-<p>Избранные кураторские проекты</p>
+<h2>Избранные кураторские проекты</h2>
 
 <p>cо-куратор<a href="https://garagemca.org/ru/event/faculty-of-elin-m-r-yen-vister-radio-hopes-and-dreams">"Радио мечты и надежды". Московская версия. Давай поговорим о климате, детка!</a></p>
 
@@ -43,7 +43,7 @@ www.nplusonerooms.info<br></p>
 сентябрь 2017 – настоящее, <br>
 Параллельная программа Уральской индустриальной Биеннале</p>
 
-<p>Персональные выставки</p>
+<h2>Персональные выставки</h2>
 
 <p><br>
 2019<a href="/ru/projects/sometimes-behave-so-strangely/">Иногда ведет себя так странно</a>, FFTN, Санкт-Петербург</p>
@@ -56,9 +56,9 @@ www.nplusonerooms.info<br></p>
 
 <p>2016<a href="/ru/projects/the-decay-time-of-mettastable-state/">Время распада метастабильных состояний</a>,  лаборадория Интимное место, Санкт-Петербург</p>
 
-<p>Групповые выставки</p>
+<h2>Групповые выставки</h2>
 
-<p>2019</p>
+<h3>2019</h3>
 
 <p>8-10 ноября, cо-курирование двухдневного радио <a href="https://garagemca.org/ru/event/faculty-of-elin-m-r-yen-vister-radio-hopes-and-dreams">"Мечты и надежды", Московская версия</a>, музей Гараж, Москва</p>
 
@@ -75,7 +75,7 @@ www.nplusonerooms.info<br></p>
 
 <p>февраль - март, <a href="/ru/projects/no-words-no-war/">Нет слов/нет войны,</a> Периферический взгляд, Trieste, Italy<br></p>
 
-<p>2018</p>
+<h3>2018</h3>
 
 <p>7-е октября, <a href="/texts/information/">Информационное,</a>   Failed, Agile Gallery, Санкт-Петербург</p>
 
@@ -97,7 +97,7 @@ www.nplusonerooms.info<br></p>
 
 <p>январь - present, <a href="/ru/projects/the-google-it/">Thegoogleit</a>, web выставка<br></p>
 
-<p>2017</p>
+<h3>2017</h3>
 
 <p>декабрь,  <a href="/ru/projects/track-track/">The End,</a> "Track 2 Track",  Quartariata Residency,  финальная выставка лаборатории экспериментальной поэзии</p>
 
@@ -109,13 +109,13 @@ www.nplusonerooms.info<br></p>
 
 <p>февраль, <a href="/ru/projects/the-blue-serie/">Синяя серия</a>, 900 and another 25,000 days, Новый музей, Санкт-Петербург</p>
 
-<p>2016</p>
+<h3>2016</h3>
 
 <p>июль, <a href="/ru/projects/no-words-no-war/">Нет слов/ нет войны</a>, Глубоко внутри, Московская молодежная биеннале, Москва</p>
 
 <p>апрель, <a href="/ru/projects/no-words-no-war/">Нет слов/ нет войны,</a> выставка What we left behind in Russia?, часть проекта “Beside war", Redipuglia Fogliano, Италия</p>
 
-<p>2015</p>
+<h3>2015</h3>
 
 <p>ноябрь,<a href="/ru/projects/daily-news/">Новости Луганска,</a>Мультимедиа фестиваль,  Красноярск, Россия</p>
 
@@ -131,7 +131,7 @@ www.nplusonerooms.info<br></p>
 
 <p>апрель, <a href="/ru/projects/no-words-no-war/">Нет слов/ нет войны</a>, выставка Военный музей, ММСИ, Москва</p>
 
-<p>2014</p>
+<h3>2014</h3>
 
 <p>сентябрь, интерактивная скульптура <a href="/ru/projects/cube-not-cube/">Куб не куб,</a>  фестиваль паблик-арт "Арт проспект", Санкт-Петербург, Россия</p>
 
@@ -139,15 +139,15 @@ www.nplusonerooms.info<br></p>
 
 <p>июнь,<a href="/ru/projects/daily-news/">НовостиЛуганска,</a>  видео-показ,  фонд Про Арте, Санкт-Петербург, Россия</p>
 
-<p>2013</p>
+<h3>2013</h3>
 
 <p>декабрь, <a href="/ru/projects/under-ground/">Подземка</a>,  "В чем суть?", фонд Про Арте, Санкт-Петербург, Россия</p>
 
-<p>Коллекции</p>
+<h2>Коллекции</h2>
 
 <p><a href="/ru/projects/no-words-no-war/">Проект "Ни слова о войне"</a>  передан в коллекцию <a href="https://www.iodeposito.org/en/">IoDeposito</a></p>
 
-<p>Достижения</p>
+<h2>Достижения</h2>
 
 <p>2020  Лонг-лист премии Курехина в номинации "Лучший медиа-объект"</p>
 
@@ -156,7 +156,7 @@ www.nplusonerooms.info<br></p>
 
 <p>2015  Победитель Красноярского мульти-медиа фестиваля, Красноярск, Россия</p>
 
-<p>Лекции и публичные выступления</p>
+<h2>Лекции и публичные выступления</h2>
 
 <p>10.11.2017 “Презентация Communication management unit” – IV Уральская Индустриальная Биеннале Industrial Biennale, Екатеринбург<br>
 17.02.2018 “Искусство вформате онлайн-платформ“ – публичная лекция фестиваля “Пространствование”,  QuartaRiata, Петергоф</p>
@@ -177,7 +177,7 @@ www.nplusonerooms.info<br></p>
 
 <p>06.12.2019 Участие в конференции "Дар и Труд в искусстве и культуре", ДК Розы, Санкт-Петербург</p>
 
-<p>Тексты</p>
+<h2>Тексты</h2>
 
 <p>октябрь 2018 - present - телеграм-канал <a href="https://t.me/procartistination">procartistination</a></p>
 

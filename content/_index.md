@@ -15,7 +15,7 @@ title: "About"
 
 <p>My artistic explorations also delve into the shifting landscapes of time, history, memory, politic of identity. Themes such as post-Soviet experiences, collective traumas, militarism, mass media, propaganda, and collective memory are dissected through personal reflections, affective engagements, and analytical methodologies, unveiling the intricate structures of human emotions and societal dynamics.</p>
 
-<p>Education</p>
+<h2>Education</h2>
 
 <p>2022 – 2023     <a href="https://www.hfbk-hamburg.de/">HFBK</a>, guest student of "Times and media" Depatment<br>
 2017 – 2019     <a href="http://artesliberales.spbu.ru/academics-en/programs/MA_programs/curatorial_studies">MA in curatorial studies</a>, <a href="http://artesliberales.spbu.ru/about-en">Faculty of Liberal Arts and Sciences</a>, joint program of Smolny College and Bard College</p>
@@ -28,7 +28,7 @@ title: "About"
 
 <p>2003 – 2008    <a href="http://eng.unn.ru">Lobachevski State University of Nizhny Novogorod</a>, <a href="http://eng.unn.ru/about/academic-units/faculty-of-radiophysics">radiophisycal department</a></p>
 
-<p>Selected <a href="/projects/">curatorial projects</a></p>
+<h2>Selected <a href="/projects/">curatorial projects</a></h2>
 
 <p>Co-curated<a href="https://garagemca.org/en/event/faculty-of-elin-m-r-yen-vister-radio-hopes-and-dreams">"Radio hopes and dreams." The Moscow edition. Let's talk about climate, baby!</a></p>
 
@@ -45,7 +45,7 @@ April, 2018 – present</p>
 September - November, 2017 <br>
 <a href="http://fourth.uralbiennale.ru/en/places/parallel-program/communication-management-unit">Parallel program of Ural Industrial Biennale</a></p>
 
-<p>Personal <a href="/projects/">exhibitions</a></p>
+<h2>Personal <a href="/projects/">exhibitions</a></h2>
 
 <p>November, 2020       Technologies of presence, Kunsthalle Nummer Sieben, Saint Petersburg, Russia<br>
 November, 2019<a href="/projects/sometimes-behave-so-strangely/">Sometimes behave so strangely,</a><a href="https://www.facebook.com/FFTN-1614665878825861/">FFTN Gallery</a>, Saint Petersburg, Russia</p>
@@ -58,9 +58,9 @@ November, 2019<a href="/projects/sometimes-behave-so-strangely/">Sometimes behav
 
 <p>April, 2016<a href="/projects/the-decay-time-of-mettastable-state/">The decay time of metastable states,</a><a href="https://www.facebook.com/pg/intimnoemesto/about/">Intimate place</a>, Saint Petersburg, Russia</p>
 
-<p>Group exhibitions</p>
+<h2>Group exhibitions</h2>
 
-<p>2020</p>
+<h3>2020</h3>
 
 <p>December, <a href="/projects/sometimes-behave-so-strangely/">Sometimes behave so strangely,</a> Exhibition of nominees for the Kurekhin Prize, CSI Kurekhin</p>
 
@@ -72,7 +72,7 @@ November, 2019<a href="/projects/sometimes-behave-so-strangely/">Sometimes behav
 
 <p>June, Artist's poetry,  <a href="https://solyanka.org/poetry?fbclid=IwAR3BZLIPonep-ypp6JIFxG9_BJCBMnXd9kukVVuUlXHeadSbw1XTqM4RpWY">Ground Solyanka</a>, Moscow<br></p>
 
-<p>2019</p>
+<h3>2019</h3>
 
 <p>8-10 November, co-curated of<a href="https://garagemca.org/en/event/faculty-of-elin-m-r-yen-vister-radio-hopes-and-dreams">Radio "Hopes and Dreams", the Moscow Edition</a>, Garage museum, Moscow</p>
 
@@ -86,7 +86,7 @@ November, 2019<a href="/projects/sometimes-behave-so-strangely/">Sometimes behav
 
 <p>February - March,<a href="https://www.bsidewar.org/en/past/pheripheral-visions-exhibition/">Peripheralvisions, Trieste, Italy</a></p>
 
-<p>2018</p>
+<h3>2018</h3>
 
 <p>7th of October, Informing,   Failed, <a href="https://www.instagram.com/agile_gallery/">Agile Gallery</a>, Saint Petersburg</p>
 
@@ -106,7 +106,7 @@ November, 2019<a href="/projects/sometimes-behave-so-strangely/">Sometimes behav
 
 <p>April, <a href="/projects/dialog/">Dialog</a>, <a href="https://www.rustelecom-museum.ru/news/363/">Social media - the habit of consistency</a>, <a href="https://en.wikipedia.org/wiki/A.S._Popov_Central_Museum_of_Communications">Saint Petersburg Museum of Telecommunications</a></p>
 
-<p>2017</p>
+<h3>2017</h3>
 
 <p>December,  <a href="/projects/track-track/">Text based poetry, "Track 2 Track",</a> Quartariata Residency, Peterhof, <a href="https://languageartist.me/2017/12/15/1143/">exhibition based on the Laboratory of Experimental Poetry</a></p>
 
@@ -120,13 +120,13 @@ November, 2019<a href="/projects/sometimes-behave-so-strangely/">Sometimes behav
 
 <p>February, <a href="/projects/the-blue-serie/">The blue series</a>, <a href="http://www.proarte.ru/events/vystavka-900-i-eshche-26-000-dney-nemetsko-russkiy-proekt-posvyashchennyy-pamyati-o-blokade-leningra/">900 and another 25,000 days</a>,<a href="https://de.rbth.com/deutschland_und_russland/geschichte_und_kultur/2017/02/17/sankt-petersburg-neue-ausstellung-uber-die-blockade-von-leningrad-eroffnet_704381">...</a>, New museum, Saint Petersburg</p>
 
-<p>2016</p>
+<h3>2016</h3>
 
 <p>July, <a href="/projects/no-words-no-war/">No words no war,</a> <a href="https://viennacontemporarymag.com/2016/07/11/moscow-international-biennale-for-young-art-highlights/">5th Moscow International Biennale for Young Art: «Deep Inside». Main Project</a>, Moscow, Russia</p>
 
 <p>April, <a href="/projects/no-words-no-war/">No words no war</a>, <a href="http://www.iodeposito.org/wp-content/uploads/2016/04/2016bside_WhatweleftbehindinRussia.pdf">What we left behind in Russia?</a>, the part of <a href="https://www.iodeposito.org/en/">“Beside war" project,</a> Redipuglia Fogliano, Italy</p>
 
-<p>2015</p>
+<h3>2015</h3>
 
 <p>November, <a href="/projects/daily-news/">Lugansk Diary,</a><a href="http://www.filmshouse.ru/media-festival">Multimedia Art Festival,</a>  Krasnoyark, Russia</p>
 
@@ -142,7 +142,7 @@ November, 2019<a href="/projects/sometimes-behave-so-strangely/">Sometimes behav
 
 <p>April, <a href="/projects/no-words-no-war/">No words no war</a>,  "<a href="http://www.mmoma.ru/exhibitions/tverskoy9/voennyj_muzej/">War Museum</a>", <a href="http://www.mmoma.ru/exhibitions/tverskoy9/">MMSI</a>, Moscow, Russia</p>
 
-<p>2014</p>
+<h3>2014</h3>
 
 <p>September, interactive sculpture <a href="/projects/cube-not-cube/">Cube not cube</a>, <a href="https://www.artprospect.org/2014">public art festival "Art Prospect",</a> Saint Petersburg, Russia</p>
 
@@ -152,16 +152,15 @@ November, 2019<a href="/projects/sometimes-behave-so-strangely/">Sometimes behav
 
 <p>June,<a href="/projects/daily-news/">Lugansk Diary</a>,  Video show of works by participants of the "School of the young artist", <a href="http://www.proarte.ru/en/">ProArte</a>, Saint Petersburg</p>
 
-<p><br>
-2013</p>
+<h3>2013</h3>
 
 <p>December <a href="http://www.proarte.ru/events/master-klass-v-chem-sut-iriny-korinoy-moskva/">"Where is the content?",</a> <a href="http://www.proarte.ru/en/">Pro Arte</a>, Saint Petersburg</p>
 
-<p>Collections</p>
+<h2>Collections</h2>
 
 <p><a href="/projects/no-words-no-war/">No words no war</a> project is in the official collection of <a href="https://www.iodeposito.org/en/">IoDeposito</a></p>
 
-<p>Awards</p>
+<h2>Awards</h2>
 
 <p>2015 - winner of the Multimedia Art Festival, Krasnoyark, Russia</p>
 
@@ -171,7 +170,7 @@ November, 2019<a href="/projects/sometimes-behave-so-strangely/">Sometimes behav
 
 <p>2020 - long-list of Kurekhin Art Prize for multimedia object</p>
 
-<p>Lectures</p>
+<h2>Lectures</h2>
 
 <p>11.04.2020 Lecture "Online platforms as hybrid forms of art" for Tzelinnii Centre, Almaty, Kazakhstan<br>
 03.2020 - 04.2020  course of lectures "Online platforms as hybrid forms of art" for Paideiia school of interpretation of contemporary art</p>
