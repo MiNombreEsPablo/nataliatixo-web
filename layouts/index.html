@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="page page-home">
   <h1>{{ .Title }}</h1>
-  <div class="content">{{ .Content }}</div>
+  <div class="content">{{ partial "content.html" . }}</div>
   {{ with .Site.GetPage "/press" }}
     {{ if .Pages }}
     <h2 class="group-heading">{{ if eq $.Site.Language.Lang "ru" }}Пресса{{ else }}Press{{ end }}</h2>

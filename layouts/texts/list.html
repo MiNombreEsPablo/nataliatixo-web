@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="page page-list page-texts">
   <h1>{{ .Title }}</h1>
-  <div class="content">{{ .Content }}</div>
+  <div class="content">{{ partial "content.html" . }}</div>
   {{ $groups := slice
       (dict "key" "poetry" "label" (cond (eq .Language.Lang "ru") "Поэзия" "Poetry"))
       (dict "key" "essays" "label" (cond (eq .Language.Lang "ru") "Эссе и публикации" "Essays & published texts"))

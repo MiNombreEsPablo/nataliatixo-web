@@ -1,7 +1,7 @@
 {{ define "main" }}
 <article class="page page-list">
   <h1>{{ .Title }}</h1>
-  <div class="content">{{ .Content }}</div>
+  <div class="content">{{ partial "content.html" . }}</div>
   <ul class="child-list">
     {{ range .Pages }}
     <li>

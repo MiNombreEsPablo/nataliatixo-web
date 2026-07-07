@@ -1,6 +1,6 @@
 {{ define "main" }}
 <article class="page page-single">
   <h1>{{ .Title }}</h1>
-  <div class="content">{{ .Content }}</div>
+  <div class="content">{{ partial "content.html" . }}</div>
 </article>
 {{ end }}
