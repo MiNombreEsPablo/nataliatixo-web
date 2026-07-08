@@ -5,7 +5,7 @@ categories: ["research"]
 tags: ["research", "texts"]
 ---
 
-{{< img src="6253e7_653c59b03fef433bac2ac52c159b84ea.jpg" alt="" >}}
+{{< img src="6253e7_653c59b03fef433bac2ac52c159b84ea.jpg" alt="Still from Dziga Vertov's Man with a Movie Camera: a cameraman's face beside the large cine-camera lens" >}}
 
 <p><a href="http://aroundart.org/2019/07/21/konteksty-i-chuvstva-v-tsifrovom-prostranstve-beseda-natal-i-tihonovoj-i-mihaila-stepanova/">Read it on www.aroundart.org</a></p>
 
