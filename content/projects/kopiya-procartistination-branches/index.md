@@ -3,7 +3,7 @@ group: curatorial
 title: "Procartistination Branches_short"
 ---
 
-{{< img src="6253e7_c506fa770ebd4f27a7002702383cea44.jpg" alt="81963579_878916575859841_471207678586755" >}}
+{{< img src="6253e7_c506fa770ebd4f27a7002702383cea44.jpg" alt="Pencil drawing of a table setting seen from above, mixed with digital icons: a laptop, cursor, like button and speech bubble" >}}
 
 <p class="lede">PROCARTISTINATION BRUNCHES</p>
 

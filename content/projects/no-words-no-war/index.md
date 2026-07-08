@@ -35,7 +35,7 @@ title: "No words/no war"
 
 {{< img src="6253e7_681823df238241439c021d5781beae48_d_2048_1482_s_2.jpg" alt="A visitor leans into one of two black viewing boxes mounted on OSB walls, small red-tinted images inside" >}}
 
-{{< img src="6253e7_c1abf2f92a314e14aae28b8519283a21_d_2048_1356_s_2.jpg" alt="16722549_1014218808712150_3250460699751865433_o" >}}
+{{< img src="6253e7_c1abf2f92a314e14aae28b8519283a21_d_2048_1356_s_2.jpg" alt="Opening-night crowd with drinks in the gallery space panelled with OSB boards" >}}
 
 {{< img src="6253e7_cce6925e74394f6cb1e89165d5a7993e.jpg" alt="Wall of black-and-white war landscapes with figures picked out in red, half the view covered by a glossy red filter" >}}
 

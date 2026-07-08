@@ -26,7 +26,7 @@ Investigation of paradox becomes a unifying element between art and science.</p
 
 <p class="caption">2016</p>
 
-{{< img src="6253e7_54745b78d40f4c9489d323ec26bf034f.jpg" alt="13000175_10154027152693467_5996057545198" >}}
+{{< img src="6253e7_54745b78d40f4c9489d323ec26bf034f.jpg" alt="Visitors gathered around a glass display case in a dimly lit room" >}}
 
 <h2>THE DECAY TIME</h2>
 

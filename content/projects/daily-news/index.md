@@ -15,10 +15,10 @@ title: "Daily news"
 
 <p>October, 2015</p>
 
-{{< img src="6253e7_c84bf613c5324e3c8243ff1e9507c2f0.jpg" alt="News of Lugansk" >}}
+{{< img src="6253e7_c84bf613c5324e3c8243ff1e9507c2f0.jpg" alt="Two CRT televisions glowing in a dark room, each showing a different news broadcast about the war in Donbass" >}}
 
-{{< img src="6253e7_acb263453e2c4c75b2fdfcec51b15ca3.jpg" alt="News of Lugansk" >}}
+{{< img src="6253e7_acb263453e2c4c75b2fdfcec51b15ca3.jpg" alt="Two CRT televisions with headphones on a blue plinth, each playing a different news feed" >}}
 
-{{< img src="6253e7_39b205b1d4754c278d8dce154820b62c.jpg" alt="News of Lugansk" >}}
+{{< img src="6253e7_39b205b1d4754c278d8dce154820b62c.jpg" alt="Still from a TSN news broadcast: an anchor at the studio desk, the caption reads “Countering separatism”" >}}
 
 <h2>DAILY NEWS</h2>

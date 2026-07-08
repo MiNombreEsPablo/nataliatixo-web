@@ -3,7 +3,7 @@ group: curatorial
 title: "Radio hopes and dreams. Moscow."
 ---
 
-{{< img src="6253e7_a46e7be243254f8d8969cd62ee6a629a.jpg" alt="76769670_155581532504158_908406196370040" >}}
+{{< img src="6253e7_a46e7be243254f8d8969cd62ee6a629a.jpg" alt="Poster for “Let's Talk About Climate, Baby!” by Radio Hopes and Dreams, Moscow, 9–10 November 2019: a drawing of a crowd holding climate-protest placards" >}}
 
 <p><a href="https://web.archive.org/web/20221202202507/https://garagemca.org/en/event/faculty-of-elin-m-r-yen-vister-radio-hopes-and-dreams">https://garagemca.org/en/event/faculty-of-elin-m-r-yen-vister-radio-hopes-and-dreams</a></p>
 

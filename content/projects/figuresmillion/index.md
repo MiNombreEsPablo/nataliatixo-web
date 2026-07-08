@@ -39,10 +39,10 @@ title: "Million"
 
 <p class="caption">2018</p>
 
-{{< img src="6253e7_903636e3691b455cb783e1ab69326fd0.jpg" alt="43146517_10217266567325397_2200546208005" >}}
+{{< img src="6253e7_903636e3691b455cb783e1ab69326fd0.jpg" alt="Exhibition hall with a huge projection of a hand writing calculations; visitors at a table with stacks of blue books" >}}
 
-{{< img src="6253e7_29b18abebb98470cb35df3b38cf3b5c2.jpg" alt="45459889_10217523017496491_7783181313942" >}}
+{{< img src="6253e7_29b18abebb98470cb35df3b38cf3b5c2.jpg" alt="Visitors, one in a yellow Pikachu costume, in front of the projection of handwritten calculations" >}}
 
-{{< img src="6253e7_926dbfd9c7b348719307c308ab605d4c.jpg" alt="43064429_10217266568325422_3657055096518" >}}
+{{< img src="6253e7_926dbfd9c7b348719307c308ab605d4c.jpg" alt="Blue volumes scattered across the white floor, an open book in the foreground, the writing-hand projection behind" >}}
 
 <p class="lede">MILLION</p>

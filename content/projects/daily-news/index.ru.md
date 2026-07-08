@@ -27,10 +27,10 @@ title: "Новости Луганска"
 
 <p class="caption"><a href="http://aroundart.org/2015/10/30/leaving-tomorrow/">http://aroundart.org/2015/10/30/leaving-tomorrow/</a></p>
 
-{{< img src="6253e7_c84bf613c5324e3c8243ff1e9507c2f0.jpg" alt="News of Lugansk" >}}
+{{< img src="6253e7_c84bf613c5324e3c8243ff1e9507c2f0.jpg" alt="Два кинескопных телевизора светятся в тёмном зале, на каждом — свой новостной репортаж о войне на Донбассе" >}}
 
-{{< img src="6253e7_acb263453e2c4c75b2fdfcec51b15ca3.jpg" alt="News of Lugansk" >}}
+{{< img src="6253e7_acb263453e2c4c75b2fdfcec51b15ca3.jpg" alt="Два кинескопных телевизора с наушниками на синем постаменте, на каждом — свой новостной сюжет" >}}
 
-{{< img src="6253e7_39b205b1d4754c278d8dce154820b62c.jpg" alt="News of Lugansk" >}}
+{{< img src="6253e7_39b205b1d4754c278d8dce154820b62c.jpg" alt="Кадр из выпуска новостей ТСН: ведущая за студийным столом, титр «Протидія сепаратизму»" >}}
 
 <h2>НОВОСТИ ЛУГАНСКА</h2>
