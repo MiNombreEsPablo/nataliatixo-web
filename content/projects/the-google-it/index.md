@@ -3,9 +3,9 @@ group: artistic
 title: "The google it"
 ---
 
-{{< img src="6253e7_49940f54f85240f9b0476ca235c51793.png" alt="" >}}
+{{< img src="6253e7_49940f54f85240f9b0476ca235c51793.png" alt="Screenshot: the words 'The google it' typed in dark letters on an off-white page" >}}
 
-{{< img src="6253e7_2c373993ad8b4cf79fc2ae5f8055872a.png" alt="" >}}
+{{< img src="6253e7_2c373993ad8b4cf79fc2ae5f8055872a.png" alt="Screenshot: the phrase 'Horizon Geometry Space' with a text cursor at the end" >}}
 
 <p class="caption">Web Projects</p>
 

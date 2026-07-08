@@ -16,9 +16,9 @@ Investigation of paradox becomes a unifying element between art and science.</p
 
 <p class="caption">April, 2016</p>
 
-{{< img src="6253e7_355dbe00ccfd4cd1b57da10fd3bb548e.jpg" alt="" >}}
+{{< img src="6253e7_355dbe00ccfd4cd1b57da10fd3bb548e.jpg" alt="Black-and-white poster: 'The decay time of metastable states' in Russian, a black ball resting in the corner of a bent line, with date and venue" >}}
 
-{{< img src="6253e7_99cefdfeacd54e12a3721c23613576b0_d_1915_1535_s_2.jpg" alt="" >}}
+{{< img src="6253e7_99cefdfeacd54e12a3721c23613576b0_d_1915_1535_s_2.jpg" alt="Black-and-white installation view: a vitrine of blank white book-like slabs strung on a wire above a monitor showing a woman at a train window" >}}
 
 <p class="caption">Installation</p>
 

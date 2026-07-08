@@ -7,8 +7,8 @@ title: "Track track"
 
 <p class="caption">TRACK TRACK</p>
 
-{{< img src="6253e7_e64847e23770416b948ff08a29cb8b8d.jpg" alt="" >}}
+{{< img src="6253e7_e64847e23770416b948ff08a29cb8b8d.jpg" alt="Небольшой белый холст с надписью от руки You are here и красным крестиком" >}}
 
-{{< img src="6253e7_f8d2c59c71ef4741acebe0568e7cb9cd.jpg" alt="" >}}
+{{< img src="6253e7_f8d2c59c71ef4741acebe0568e7cb9cd.jpg" alt="Деревянная рамка на белой стене, в центре которой лишь крошечное многоточие в кавычках" >}}
 
-{{< img src="6253e7_82c6ba67bcc04769872c739e32196d6f.jpg" alt="" >}}
+{{< img src="6253e7_82c6ba67bcc04769872c739e32196d6f.jpg" alt="Белый холст с надписью Please stand by" >}}
