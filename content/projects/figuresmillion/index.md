@@ -3,9 +3,9 @@ group: artistic
 title: "Million"
 ---
 
-{{< img src="6253e7_e611d042c52b4a169e38f6c7411cc3bb.jpg" alt="" >}}
+{{< img src="6253e7_e611d042c52b4a169e38f6c7411cc3bb.jpg" alt="Black-and-white video still: a hand works through long division on paper, averaging 600,000 and 1,500,000 casualties into 1,050,000 and dividing by 872 days" >}}
 
-{{< img src="6253e7_e7b78c2f1dcf4cb3843ac6c7f97f8f25.jpg" alt="" >}}
+{{< img src="6253e7_e7b78c2f1dcf4cb3843ac6c7f97f8f25.jpg" alt="Installation view, Hamburg: the casualty calculations handwritten across the gallery wall, the video playing on a monitor, documents in a vitrine" >}}
 
 <p class="caption">Video, installation</p>
 
@@ -27,11 +27,11 @@ title: "Million"
 
 <p class="caption">2015</p>
 
-{{< img src="6253e7_4d9ee66daa184ee8a2a6b5e7828bc779.jpg" alt="lfFvpQKK_P8" >}}
+{{< img src="6253e7_4d9ee66daa184ee8a2a6b5e7828bc779.jpg" alt="Wider view of the Hamburg installation: wall calculations from the Leningrad siege dates to a figure of about 1,200 deaths per day, next to the video monitor and vitrine" >}}
 
-{{< img src="6253e7_1a8713b64bbd436bb63d6abded0f6023.jpg" alt="21950770_10214148944826783_8748493551418" >}}
+{{< img src="6253e7_1a8713b64bbd436bb63d6abded0f6023.jpg" alt="The video on a monitor in the dark: a hand writing the 1,050,000-by-872-days division on sheets of paper" >}}
 
-{{< img src="6253e7_a53f083728be4cff8e5e4b0a80d2f879.jpg" alt="12107753_10207808103149704_4592495974484" >}}
+{{< img src="6253e7_a53f083728be4cff8e5e4b0a80d2f879.jpg" alt="A visitor leans over the vitrine of documents beneath the video monitor at the Silent Voices exhibition, Krasnoyarsk" >}}
 
 <p class="caption">View of installation on "Silent voices"exhibition at</p>
 

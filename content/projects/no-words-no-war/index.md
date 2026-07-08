@@ -31,9 +31,9 @@ title: "No words/no war"
 
 <p class="caption"><a href="https://photos.edu.pl/media/BQqekwagVVS-the-opening-of-the-exhibition-no-wordsno-war-by-n.html">https://photos.edu.pl</a></p>
 
-{{< img src="6253e7_f621c2e6706f47c396e3a0c12b5bd9ae_d_2048_1356_s_2.jpg" alt="CARINARNICA - BIVAK URBANE KULTURE" >}}
+{{< img src="6253e7_f621c2e6706f47c396e3a0c12b5bd9ae_d_2048_1356_s_2.jpg" alt="The Carinarnica pavilion in Slovenia at dusk, No Words / No War posters over doors glowing warm orange from inside" >}}
 
-{{< img src="6253e7_681823df238241439c021d5781beae48_d_2048_1482_s_2.jpg" alt="16825838_1016668815133816_6762230987016491581_o" >}}
+{{< img src="6253e7_681823df238241439c021d5781beae48_d_2048_1482_s_2.jpg" alt="A visitor looks into a small black viewing box mounted on an OSB wall; a second box with a tiny glowing screen hangs nearby" >}}
 
 {{< img src="6253e7_c1abf2f92a314e14aae28b8519283a21_d_2048_1356_s_2.jpg" alt="16722549_1014218808712150_3250460699751865433_o" >}}
 

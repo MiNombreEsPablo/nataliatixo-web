@@ -3,11 +3,11 @@ title: "Heaven"
 group: artistic
 ---
 
-{{< img src="6253e7_69ce4751915a4173a227f0485624dbf1_d_1875_1250_s_2.jpg" alt="" >}}
+{{< img src="6253e7_69ce4751915a4173a227f0485624dbf1_d_1875_1250_s_2.jpg" alt="Glass-block wall lit from behind in purple, gold and teal, each block holding the faint silhouette of a head and shoulders" >}}
 
-{{< img src="6253e7_0b03efd6952f40bbba04b8310f48a4e9.jpg" alt="" >}}
+{{< img src="6253e7_0b03efd6952f40bbba04b8310f48a4e9.jpg" alt="Dim blue-green light through the glass-block wall, rows of dark human silhouettes inside the blocks" >}}
 
-{{< img src="6253e7_bd78cd2a764640789ec9feb5ec5d5624.jpg" alt="" >}}
+{{< img src="6253e7_bd78cd2a764640789ec9feb5ec5d5624.jpg" alt="Daylight through the full glass-block wall of the former factory: hundreds of backlit silhouettes in a grid above the bare concrete floor" >}}
 
 <p class="caption">Installation</p>
 
@@ -24,8 +24,8 @@ After restoration, more than 500 silhouettes were applied to the wall made of gl
 
 <p class="caption">Photos from social media of visitors</p>
 
-{{< img src="6253e7_8ea2ab6e75584f84a8e8dcd39fb7d3d5.png" alt="" >}}
+{{< img src="6253e7_8ea2ab6e75584f84a8e8dcd39fb7d3d5.png" alt="Visitor's Instagram post from Gamma Festival: loose glass blocks glowing green on the dark factory floor" >}}
 
-{{< img src="6253e7_5820cd9c0dd141ada21ccc8780ed4721.png" alt="" >}}
+{{< img src="6253e7_5820cd9c0dd141ada21ccc8780ed4721.png" alt="Visitor's Instagram post: a man stands beside the wall of silhouette-filled glass blocks, captioned in Russian 'irradiated by gamma'" >}}
 
 <p class="caption">THE HEAVEN</p>

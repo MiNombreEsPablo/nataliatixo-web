@@ -11,7 +11,7 @@ title: "Babushkas"
 
 <p class="caption">23.09.2018</p>
 
-{{< img src="6253e7_016a1d75174a4256bbdb44ea36e6aa0a.png" alt="file.jpg.png" >}}
+{{< img src="6253e7_016a1d75174a4256bbdb44ea36e6aa0a.png" alt="Video still from a meeting at the social center: an elderly woman gestures while speaking, other participants seated behind her" >}}
 
 <p class="caption">Presentation view in Rosa's House</p>
 
@@ -19,9 +19,9 @@ title: "Babushkas"
 
 <p>Text is not translated yet</p>
 
-{{< img src="6253e7_c630e38604aa4566820ac9a33024e7cc.jpg" alt="" >}}
+{{< img src="6253e7_c630e38604aa4566820ac9a33024e7cc.jpg" alt="Framed exhibition text of the Babushkas project, with the meeting schedule and a map" >}}
 
-{{< img src="6253e7_67f19b2d5a874ea1bc255bbf9c8a8fbf.jpg" alt="" >}}
+{{< img src="6253e7_67f19b2d5a874ea1bc255bbf9c8a8fbf.jpg" alt="Copies of the Babushkas zine, yellow chrysanthemums on the cover, laid in a long row on purple carpet" >}}
 
 <p>The project Babushkas talks about contemporary art, its social and ethical meanings in St. Petersburg in 2018. The main material that builds the exhibition is the recording of meetings happened in the social center for 2 months. During that meetings with the visitors of the centre we've discussed the most known works in the genre of socially-oriented art.</p>
 

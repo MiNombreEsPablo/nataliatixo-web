@@ -13,8 +13,8 @@ title: "Open:spaces"
 
 <p class="caption">2014</p>
 
-{{< img src="6253e7_6c3cdbd81e5c40ec97045703129f90dbf003.jpg" alt="" >}}
+{{< img src="6253e7_6c3cdbd81e5c40ec97045703129f90dbf003.jpg" alt="Video still: looking down into a white cup of dark tea, the round surface filling the frame like a planet" >}}
 
-{{< img src="6253e7_db15f54a62cb49cba3151e98f10b0370f003.jpg" alt="" >}}
+{{< img src="6253e7_db15f54a62cb49cba3151e98f10b0370f003.jpg" alt="Video still: a grey washed surface with streaks and drips, like a landscape seen through haze" >}}
 
 <h2>OPEN:SPACES</h2>

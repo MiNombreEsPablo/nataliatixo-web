@@ -3,9 +3,9 @@ group: artistic
 title: "Dialog"
 ---
 
-{{< img src="6253e7_d84bb88782c5450ea6577da4840e33da.jpg" alt="" >}}
+{{< img src="6253e7_d84bb88782c5450ea6577da4840e33da.jpg" alt="Video still of a messenger chat: a column of sent messages, each containing a single emoji, all marked with one grey check" >}}
 
-{{< img src="6253e7_a34c79bcd08b49139e56561ef10ff01b_d_1608_1596_s_2.png" alt="" >}}
+{{< img src="6253e7_a34c79bcd08b49139e56561ef10ff01b_d_1608_1596_s_2.png" alt="Video still of the same chat: a BBC Russian news link about sanctions and oil companies, answered only with rows of emoji" >}}
 
 <p class="caption">Video</p>
 

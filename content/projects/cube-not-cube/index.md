@@ -3,11 +3,11 @@ group: artistic
 title: "Cube not cube"
 ---
 
-{{< img src="6253e7_21878478f945429fa65b5cf6dc81c0c2_d_1692_1297_s_2.jpg" alt="" >}}
+{{< img src="6253e7_21878478f945429fa65b5cf6dc81c0c2_d_1692_1297_s_2.jpg" alt="Close view of painted wooden tetromino-like blocks — red, white, blue, black and yellow — standing on autumn grass" >}}
 
-{{< img src="6253e7_2fe62c503a95415993cf7352da3d7435.jpg" alt="" >}}
+{{< img src="6253e7_2fe62c503a95415993cf7352da3d7435.jpg" alt="A tower of interlocking primary-colored blocks assembled in a park, smaller pieces scattered on the grass around it" >}}
 
-{{< img src="6253e7_bd58f06827634f3dabf129e66dd12c84.jpg" alt="" >}}
+{{< img src="6253e7_bd58f06827634f3dabf129e66dd12c84.jpg" alt="A participant carries a yellow block across the park lawn to join the sculpture, passers-by watching from the path" >}}
 
 <p class="caption">Sculpture</p>
 

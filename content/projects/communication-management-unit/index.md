@@ -45,4 +45,4 @@ title: "Communication management unit"
 
 <p>The title of the exhibition - “Communication Management Unit” is taken from the type of self-contained group within a facility in the United States <a href="https://en.wikipedia.org/wiki/Federal_Bureau_of_Prisons">Federal Bureau of Prisons</a> that severely restricts, manages and monitors all outside communication of inmates in the unit. It emphasizes the idea of creation space appropriate for the nowadays post-internet reality.</p>
 
-{{< img src="6253e7_17d8e3ab436c456e8578583b88f84335.png" alt="" >}}
+{{< img src="6253e7_17d8e3ab436c456e8578583b88f84335.png" alt="Black-and-white CMU poster: an operator in a headset whose head is filled with ears, phone numbers for different cities, and the list of curator and participants" >}}

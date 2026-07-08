@@ -21,13 +21,13 @@ title: "Babushkas"
 
 <p class="caption">09.06.2018 - 25.07.2018</p>
 
-<p class="caption"><a href="https://www.artprospect.org/fullscreen-page/comp-jlkxdcvj/e328093e-9c9a-4126-b64b-8cf7d15a16da/11/%3Fi%3D11%26p%3Djv0xb%26s%3Dstyle-jlkxdcvn?fbclid=IwAR0l82Wcpu1BjxHiDPmXfem8FYHcmiwEJ9Q-FbLOC0OFlF9r5EyHWCTLEwA">https://www.artprospect.org/fullscreen-page/comp-jlkxdcvj/e328093e-9c9a-4126-b64b-8cf7d15a16da/11/%3Fi%3D11%26p%3Djv0xb%26s%3Dstyle-jlkxdcvn?fbclid=IwAR0l82Wcpu1BjxHiDPmXfem8FYHcmiwEJ9Q-FbLOC0OFlF9r5EyHWCTLEwA</a></p>
+<p class="caption"><a href="https://web.archive.org/web/20210919201031/https://www.artprospect.org/fullscreen-page/comp-jlkxdcvj/e328093e-9c9a-4126-b64b-8cf7d15a16da/11/%3Fi%3D11%26p%3Djv0xb%26s%3Dstyle-jlkxdcvn?fbclid=IwAR0l82Wcpu1BjxHiDPmXfem8FYHcmiwEJ9Q-FbLOC0OFlF9r5EyHWCTLEwA">https://www.artprospect.org/fullscreen-page/comp-jlkxdcvj/e328093e-9c9a-4126-b64b-8cf7d15a16da/11/%3Fi%3D11%26p%3Djv0xb%26s%3Dstyle-jlkxdcvn?fbclid=IwAR0l82Wcpu1BjxHiDPmXfem8FYHcmiwEJ9Q-FbLOC0OFlF9r5EyHWCTLEwA</a></p>
 
 <p class="caption">Показ на фестивале Арт Проспект</p>
 
 <p class="caption">23.09.2018</p>
 
-{{< img src="6253e7_016a1d75174a4256bbdb44ea36e6aa0a.png" alt="file.jpg.png" >}}
+{{< img src="6253e7_016a1d75174a4256bbdb44ea36e6aa0a.png" alt="Кадр видео со встречи в социальном центре: пожилая женщина жестикулирует во время разговора, позади сидят другие участницы" >}}
 
 <p class="caption">Выставка-презентация в ДК Розы</p>
 
@@ -82,9 +82,9 @@ title: "Babushkas"
 – А сколько веков музыка была без нот!<br>
 ...</p>
 
-{{< img src="6253e7_c630e38604aa4566820ac9a33024e7cc.jpg" alt="" >}}
+{{< img src="6253e7_c630e38604aa4566820ac9a33024e7cc.jpg" alt="Экспликация проекта Babushkas в рамке: описание проекта, расписание встреч и карта" >}}
 
-{{< img src="6253e7_67f19b2d5a874ea1bc255bbf9c8a8fbf.jpg" alt="" >}}
+{{< img src="6253e7_67f19b2d5a874ea1bc255bbf9c8a8fbf.jpg" alt="Экземпляры зина Babushkas с жёлтыми хризантемами на обложке, разложенные длинным рядом на фиолетовом ковре" >}}
 
 <p>Проект "Babushkas"рассуждает о современном искусстве, его социальных и этических смыслах в Санкт- Петербурге в 2018 году. Основным материалом, формирующим сюжет выставки, являются записи встреч в досуговом центре, на которых в свободной форме обсуждались наиболее яркие работы в жанре социально-ориентированного искусства. Встречи проходили в раз в неделю в июне и в июле 2018 года. Заверщающей экспозицией стала выставка в пространстве ДК Розы, на которой была представлена видео-инсталляция состоящая из 3-х экранов с дискуссией, видео-интервью участников, зины с публикацией обсуждения, а также круглый стол и лекции. Участники диалогов, благодаря своему уникальному опыту гражданина СССР и Российской Федерации,  рассуждают, задают вопросы, а иногда выносят приговор, что часто бывает за чашкой чая.</p>
 
