@@ -29,6 +29,6 @@ title: "On line"
 
 {{< img src="6253e7_c9a6d5388a22407a8254946e7d8cebd4.jpg" alt="The performer in profile beside the tower of lightbox screens, timer phone in hand" >}}
 
-{{< img src="6253e7_c1a9fb24401449f9a5dc17a836ca24d9.jpg" alt="" >}}
+{{< img src="6253e7_c1a9fb24401449f9a5dc17a836ca24d9.jpg" alt="The performer walks along the white wall, timer phone at her belt, a small screen glowing at the right edge" >}}
 
 <p class="caption">ON LINE</p>

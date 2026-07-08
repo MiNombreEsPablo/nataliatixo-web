@@ -31,15 +31,15 @@ title: "No words/no war"
 
 <p class="caption"><a href="https://photos.edu.pl/media/BQqekwagVVS-the-opening-of-the-exhibition-no-wordsno-war-by-n.html">https://photos.edu.pl</a></p>
 
-{{< img src="6253e7_f621c2e6706f47c396e3a0c12b5bd9ae_d_2048_1356_s_2.jpg" alt="The Carinarnica pavilion in Slovenia at dusk, No Words / No War posters over doors glowing warm orange from inside" >}}
+{{< img src="6253e7_f621c2e6706f47c396e3a0c12b5bd9ae_d_2048_1356_s_2.jpg" alt="The Carinarnica pavilion at dusk, 'No words / No war' posters above its doors and warm orange light in the windows" >}}
 
-{{< img src="6253e7_681823df238241439c021d5781beae48_d_2048_1482_s_2.jpg" alt="A visitor looks into a small black viewing box mounted on an OSB wall; a second box with a tiny glowing screen hangs nearby" >}}
+{{< img src="6253e7_681823df238241439c021d5781beae48_d_2048_1482_s_2.jpg" alt="A visitor leans into one of two black viewing boxes mounted on OSB walls, small red-tinted images inside" >}}
 
 {{< img src="6253e7_c1abf2f92a314e14aae28b8519283a21_d_2048_1356_s_2.jpg" alt="16722549_1014218808712150_3250460699751865433_o" >}}
 
-{{< img src="6253e7_cce6925e74394f6cb1e89165d5a7993e.jpg" alt="" >}}
+{{< img src="6253e7_cce6925e74394f6cb1e89165d5a7993e.jpg" alt="Wall of black-and-white war landscapes with figures picked out in red, half the view covered by a glossy red filter" >}}
 
-{{< img src="6253e7_ea27e1c230dd477598d0ddca91b79452.jpg" alt="" >}}
+{{< img src="6253e7_ea27e1c230dd477598d0ddca91b79452.jpg" alt="Black viewing box on a stand: the same winter scene shown twice, above through a red filter, below in black-and-white with red figures" >}}
 
 <p>The project consists of a series of photos placed insight light boxes, so the viewer can see photo with and without filter. Through ordinary glass, viewer sees the original image, where soldiers and people are painted with red color. When the viewer looks at photo through the filter everything red disappears, and only deserted landscape stays.</p>
 
