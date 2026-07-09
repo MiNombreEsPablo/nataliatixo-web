@@ -23,7 +23,13 @@
     {{- $small := $img.Resize "700x webp q82" -}}
     {{- $srcset = printf "%s 700w, %s %dw" $small.RelPermalink $full.RelPermalink $full.Width -}}
   {{- end -}}
-<img src="{{ $full.RelPermalink }}"{{ with $srcset }} srcset="{{ . }}" sizes="(max-width: 767px) 100vw, 688px"{{ end }} width="{{ $full.Width }}" height="{{ $full.Height }}" alt="{{ $alt }}" loading="lazy" decoding="async">
+  {{- /* Lightbox target: a variant above the 1400px body cap (up to 2000px),
+       only when the original actually has more pixels than the cap. */ -}}
+  {{- $zoom := "" -}}
+  {{- if gt $img.Width $full.Width -}}
+    {{- $zoom = ($img.Resize (printf "%.0fx webp q82" (math.Min $img.Width 2000))).RelPermalink -}}
+  {{- end -}}
+<img src="{{ $full.RelPermalink }}"{{ with $srcset }} srcset="{{ . }}" sizes="(max-width: 767px) 100vw, 688px"{{ end }} width="{{ $full.Width }}" height="{{ $full.Height }}" alt="{{ $alt }}"{{ with $zoom }} data-zoom="{{ . }}"{{ end }} loading="lazy" decoding="async">
 {{- else if $img -}}
 <img src="{{ $img.RelPermalink }}" width="{{ $img.Width }}" height="{{ $img.Height }}" alt="{{ $alt }}" loading="lazy" decoding="async">
 {{- else -}}

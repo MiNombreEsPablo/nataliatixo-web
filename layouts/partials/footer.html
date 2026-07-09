@@ -6,6 +6,7 @@
   {{ end }}
   <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
 </footer>
+<dialog class="lightbox" id="lightbox"><img alt=""></dialog>
 <script>
 (function () {
   var toggle = document.getElementById('lang-toggle');
@@ -14,5 +15,18 @@
       localStorage.setItem('lang-pref', toggle.dataset.lang);
     });
   }
+})();
+(function () {
+  var box = document.getElementById('lightbox');
+  if (!box || !box.showModal) return;
+  var pic = box.firstElementChild;
+  document.addEventListener('click', function (e) {
+    var img = e.target.closest('.content img');
+    if (!img || img.closest('a')) return;
+    pic.src = img.dataset.zoom || img.src;
+    pic.alt = img.alt;
+    box.showModal();
+  });
+  box.addEventListener('click', function () { box.close(); });
 })();
 </script>

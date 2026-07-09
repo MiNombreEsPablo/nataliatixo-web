@@ -211,6 +211,29 @@ a:hover { text-decoration-color: currentColor; }
 .post-list .post-title { color: var(--fg); }
 .post-list time { display: block; color: var(--muted); font-size: 0.8rem; margin-top: 0.25rem; }
 
+/* Lightbox: body images open full-viewport in a native <dialog>.
+   Linked images keep their link behavior (the footer script skips them). */
+.content img { cursor: zoom-in; }
+.content a img { cursor: pointer; }
+
+.lightbox {
+  border: 0;
+  padding: 0;
+  background: transparent;
+  max-width: 100vw;
+  max-height: 100vh;
+  cursor: zoom-out;
+}
+.lightbox img {
+  display: block;
+  max-width: 96vw;
+  max-height: 96vh;
+  width: auto;
+  height: auto;
+}
+.lightbox::backdrop { background: rgba(28, 28, 28, 0.92); }
+body:has(.lightbox[open]) { overflow: hidden; }
+
 .taxonomy { color: var(--muted); font-size: 0.85rem; }
 .taxonomy a { color: var(--muted); }
 
