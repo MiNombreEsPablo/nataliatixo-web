@@ -286,10 +286,22 @@ def post_date(soup: BeautifulSoup) -> str | None:
 
 # ----------------------------------------------------------- file writers --
 
+# Generated .md files have been hand-edited since extraction (alt text,
+# titles, translator's notes), so re-runs must not clobber them: existing
+# files are skipped unless --force is given. Images were always protected
+# this way; this extends the same posture to the .md files.
+FORCE = False
+SKIPPED: list[Path] = []
+
+
 def write_bundle(dir_path: Path, filename: str, title: str, body: str, extra_front_matter: str = ""):
+    target = dir_path / filename
+    if target.exists() and not FORCE:
+        SKIPPED.append(target)
+        return
     dir_path.mkdir(parents=True, exist_ok=True)
     front = f"---\ntitle: {yaml_str(title)}\n{extra_front_matter}---\n\n"
-    (dir_path / filename).write_text(front + body + "\n", encoding="utf-8")
+    target.write_text(front + body + "\n", encoding="utf-8")
 
 
 def project_page(rel_html: str, dest_dir: Path, filename: str, extra_front_matter: str = ""):
@@ -491,8 +503,12 @@ def load_category_membership() -> tuple[dict[str, list[str]], dict[str, list[str
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--only", help="comma-separated slugs to limit extraction to (for validation runs)")
+    parser.add_argument("--force", action="store_true",
+                        help="overwrite existing .md files (default: skip them — many carry hand edits made after extraction)")
     args = parser.parse_args()
     only = set(args.only.split(",")) if args.only else None
+    global FORCE
+    FORCE = args.force
 
     def wanted(slug):
         return only is None or slug in only
@@ -564,6 +580,10 @@ def main():
             cats = categories_map.get(slug, [])
             tags = tags_map.get(slug, [])
             post_page(f"{rel}.html", post_dir, cats, tags, slug=slug, group=group)
+
+    if SKIPPED:
+        print(f"\nSkipped {len(SKIPPED)} existing .md file(s) to preserve hand edits; "
+              f"re-run with --force to overwrite.", file=sys.stderr)
 
 
 if __name__ == "__main__":

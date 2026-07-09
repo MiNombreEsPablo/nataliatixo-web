@@ -10,7 +10,7 @@ A Wix-to-GitHub-Pages migration for https://nataliatixo.wixsite.com/nataliatixoe
 
 Content has been mirrored (`mirror/`, gitignored) and extracted into a working Hugo site (`content/`, `layouts/`, `hugo.toml`), with a minimalistic greyscale/light-grey style pass and full EN/RU blog parity (see below). `hugo server -D` builds cleanly, and the site is deployed via GitHub Actions to the temporary project URL https://nataliatixo.github.io/nataliatixo-web/. Not yet done: uploading the 2 big Wix lecture videos (~650–700 MB each, see README's table) somewhere external and filling in their embed URLs — the other 3 videos were small enough to self-host in their page bundles (`{{< video file="video.mp4" >}}`), and pointing the custom domain `nataliatixo.com` (Pages settings + DNS + switching `baseURL` back, see `hugo.toml`) — the domain switch requires explicit go-ahead since it touches shared/external systems, so ask before doing it. See README.md's status checklist for the up-to-date picture.
 
-**Important:** `content/` now contains hand-authored files that don't exist in the mirror (translations, `translationKey` links — see below) **and** images upgraded to full-res originals fetched from the Wix CDN (`scripts/refetch_originals.py` — the mirror only had small resized variants for ~80 of them). Never `rm -rf content` before re-running `extract_content.py`; the script only overwrites `.md` files it actually generates from mirrored HTML and never overwrites an image that already exists in a bundle, so re-running it in place is safe, but wiping the directory first would destroy the hand-authored content and re-copy the low-res mirror variants over the recovered originals.
+**Important:** `content/` now contains hand-authored files that don't exist in the mirror (translations, `translationKey` links — see below) **and** images upgraded to full-res originals fetched from the Wix CDN (`scripts/refetch_originals.py` — the mirror only had small resized variants for ~80 of them). Generated `.md` files also carry in-place hand edits (the alt-text pass, title fixes, translator's notes), so `extract_content.py` skips any `.md` that already exists — pass `--force` to overwrite deliberately — and never overwrites an image that already exists in a bundle. Re-running it in place is therefore safe, but never `rm -rf content` first: wiping the directory would destroy the hand-authored content and re-copy the low-res mirror variants over the recovered originals.
 
 ## Stack
 
@@ -42,7 +42,7 @@ Each leaf page is a **page bundle** (`index.md` + copied images alongside), not 
 
 ### Content extraction (`scripts/extract_content.py`)
 
-Run with a venv that has `beautifulsoup4` + `lxml` (not system Python — Debian blocks plain `pip install`). Re-run after re-mirroring; it overwrites `content/`.
+Run with a venv that has `beautifulsoup4` + `lxml` (not system Python — Debian blocks plain `pip install`). Re-run after re-mirroring; by default it only writes `.md` files that don't exist yet (see the `--force` note below).
 
 What it does, per mirrored HTML page:
 - Title from the `<title>` tag (strips the ` | nataliatixo` suffix, capitalizes if all-lowercase).
@@ -55,6 +55,8 @@ What it does, per mirrored HTML page:
 
 `--only slug1,slug2,...` limits a run to specific slugs (matches section slugs, child slugs, or post slugs) — useful for testing template/extraction changes without re-running everything.
 
+`--force` overwrites existing `.md` files; without it they are skipped (with a count printed at the end), because the generated files have been hand-edited since extraction (alt text, title fixes, translator's notes) and a blind re-run would revert those. Combine with `--only` to regenerate specific pages.
+
 ### Known content gaps (not extraction bugs — 404 on the live Wix site itself)
 
 Confirmed via literal "404" markers in the ~300KB mirrored HTML shells for these URLs:
@@ -66,7 +68,7 @@ Confirmed via literal "404" markers in the ~300KB mirrored HTML shells for these
 - `hugo server -D` — local dev server.
 - `hugo --minify` — production build (what CI runs).
 - `./scripts/mirror.sh` — re-mirror the live site into `mirror/` via `wget --mirror --span-hosts --domains=...`. The domain list includes Wix's CDN hosts (`static.wixstatic.com`, `video.wixstatic.com`, etc.) so media is captured alongside HTML, not just page markup. Safe to re-run anytime; it just overwrites the archive.
-- `python3 scripts/extract_content.py [--only slug1,slug2]` — (re-)generate `content/` from the mirror. Needs a venv with `beautifulsoup4` + `lxml`.
+- `python3 scripts/extract_content.py [--only slug1,slug2] [--force]` — (re-)generate `content/` from the mirror; existing `.md` files are skipped unless `--force` is given (they carry hand edits). Needs a venv with `beautifulsoup4` + `lxml`.
 - `python3 scripts/refetch_originals.py [--min-width 800]` — upgrade content images that are smaller than the Wix CDN's original upload (needs `mirror/` for the filename → media-id mapping, ImageMagick `identify`, and the Wix CDN still being up). Idempotent; run once more right before the Wix subscription is cancelled.
 - `./scripts/backup_mirror.sh [output-dir]` — tar `mirror/` into a checksummed archive (~1.5 GB). Run before cancelling Wix and move the archive somewhere durable; `mirror/` exists only on this machine and is the sole offline copy of the originals, including the two big lecture videos.
 
