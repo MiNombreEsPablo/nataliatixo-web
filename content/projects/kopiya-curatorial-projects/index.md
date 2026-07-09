@@ -16,5 +16,3 @@ title: "Radio hopes and dreams. Moscow."
 <p>Radio Hopes And Dreams Moscow edition is part of the exhibition <a href="https://thecomingworld.garagemca.org/en">The Coming World: Ecology as the New Politics 2030–2100</a> and will look into local grassroots and artist initiatives in Moscow, St. Petersburg, and the Russian Federation at large and explore local, regional, national, and planetary challenges of the climate crisis and loss of biodiversity; including the situation in the indigenous north.</p>
 
 <p>Radio Hopes and Dreams will <a href="https://s2.radio.co/s1ee83bdfe/listen">stream live</a> Saturday and Sunday 12:00–18:00 and otherwise program throughout the day and night."</p>
-
-<p class="lede">Заголовок 1</p>

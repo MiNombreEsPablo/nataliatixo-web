@@ -175,6 +175,10 @@ def clean_block(node) -> list[tuple[str, str]]:
         elif tag == "h6":
             tag, attr = "p", ' class="caption"'
         inline = clean_inline(b)
+        # Wix editor default placeholder text left untouched on some pages
+        # (e.g. an empty heading widget on kopiya-curatorial-projects).
+        if re.fullmatch(r"(Заголовок|Heading) \d", inline):
+            continue
         if inline:
             out.append((inline.lower(), f"<{tag}{attr}>{inline}</{tag}>"))
     return out

@@ -1,6 +1,6 @@
 ---
 group: curatorial
-title: "Procartistination Branches_short"
+title: "Procartistination Brunches"
 ---
 
 {{< img src="6253e7_c506fa770ebd4f27a7002702383cea44.jpg" alt="Pencil drawing of a table setting seen from above, mixed with digital icons: a laptop, cursor, like button and speech bubble" >}}
@@ -11,6 +11,6 @@ title: "Procartistination Branches_short"
 
 <p>The topic is everything that has appeared over the past week and what is interesting to talk about. For breakfast the organizers prepare a selection of links, texts, coffee and food. It is also an opportunity to get acquainted with the local space and share contacts with other participants of the community.<br></p>
 
-<p>The project studies the phenomenon of “structure of feelings” described by Raymond Wilms and identifies factors that form intangible values and components of the artistic and local community. The project uses the “breakfast” format as the most comfortable and convenient form of meetings in an informal setting.</p>
+<p>The project studies the phenomenon of “structure of feelings” described by Raymond Williams and identifies factors that form intangible values and components of the artistic and local community. The project uses the “breakfast” format as the most comfortable and convenient form of meetings in an informal setting.</p>
 
 <p>Meetings are not documented or recorded, leaving the only visually accessible material - presentations that are used during discussions. They are collected and prepared on the basis of the subjective searches of the artist, and capture topics, conversations, excitement, memes, visual images that arise in the media and information field.</p>
